@@ -1,5 +1,8 @@
 export default {
   'menu.welcome': 'Welcome',
+  'menu.system': 'System',
+  'menu.system.setting': 'System Setting',
+  'menu.system.user': 'User Manager',
   'menu.more-blocks': 'More Blocks',
   'menu.home': 'Home',
   'menu.login': 'Login',

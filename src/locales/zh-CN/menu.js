@@ -1,5 +1,8 @@
 export default {
   'menu.welcome': '欢迎',
+  'menu.system': '系统',
+  'menu.system.setting': '系统设置',
+  'menu.system.user': '用户管理',
   'menu.more-blocks': '更多区块',
   'menu.home': '首页',
   'menu.login': '登录',
